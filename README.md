@@ -1,1 +1,1 @@
-# space-game-java
+# Space Game (Java)
